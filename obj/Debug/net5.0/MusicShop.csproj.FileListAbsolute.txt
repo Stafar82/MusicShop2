@@ -1,0 +1,15 @@
+/Users/daniilefankin/Desktop/MusicShop/bin/Debug/net5.0/MusicShop.deps.json
+/Users/daniilefankin/Desktop/MusicShop/bin/Debug/net5.0/MusicShop.runtimeconfig.json
+/Users/daniilefankin/Desktop/MusicShop/bin/Debug/net5.0/MusicShop.runtimeconfig.dev.json
+/Users/daniilefankin/Desktop/MusicShop/bin/Debug/net5.0/MusicShop.dll
+/Users/daniilefankin/Desktop/MusicShop/bin/Debug/net5.0/ref/MusicShop.dll
+/Users/daniilefankin/Desktop/MusicShop/bin/Debug/net5.0/MusicShop.pdb
+/Users/daniilefankin/Desktop/MusicShop/obj/Debug/net5.0/MusicShop.csproj.AssemblyReference.cache
+/Users/daniilefankin/Desktop/MusicShop/obj/Debug/net5.0/MusicShop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniilefankin/Desktop/MusicShop/obj/Debug/net5.0/MusicShop.AssemblyInfoInputs.cache
+/Users/daniilefankin/Desktop/MusicShop/obj/Debug/net5.0/MusicShop.AssemblyInfo.cs
+/Users/daniilefankin/Desktop/MusicShop/obj/Debug/net5.0/MusicShop.csproj.CoreCompileInputs.cache
+/Users/daniilefankin/Desktop/MusicShop/obj/Debug/net5.0/MusicShop.dll
+/Users/daniilefankin/Desktop/MusicShop/obj/Debug/net5.0/ref/MusicShop.dll
+/Users/daniilefankin/Desktop/MusicShop/obj/Debug/net5.0/MusicShop.pdb
+/Users/daniilefankin/Desktop/MusicShop/obj/Debug/net5.0/MusicShop.genruntimeconfig.cache
