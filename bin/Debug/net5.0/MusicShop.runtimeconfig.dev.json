@@ -1,8 +1,13 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
+<<<<<<< HEAD
       "/Users/daniilefankin/.dotnet/store/|arch|/|tfm|",
       "/Users/daniilefankin/.nuget/packages"
+=======
+      "C:\\Users\\softwinter\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\softwinter\\.nuget\\packages"
+>>>>>>> 39ed322f3943fb7c514292349a5e600478b2466d
     ]
   }
 }
