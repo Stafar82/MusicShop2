@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\softwinter\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\softwinter\\.nuget\\packages"
+    ]
+  }
+}

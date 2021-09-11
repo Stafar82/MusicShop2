@@ -1,0 +1,16 @@
+C:\Users\softwinter\Desktop\MusicShop\bin\Debug\net5.0\MusicShop.exe
+C:\Users\softwinter\Desktop\MusicShop\bin\Debug\net5.0\MusicShop.deps.json
+C:\Users\softwinter\Desktop\MusicShop\bin\Debug\net5.0\MusicShop.runtimeconfig.json
+C:\Users\softwinter\Desktop\MusicShop\bin\Debug\net5.0\MusicShop.runtimeconfig.dev.json
+C:\Users\softwinter\Desktop\MusicShop\bin\Debug\net5.0\MusicShop.dll
+C:\Users\softwinter\Desktop\MusicShop\bin\Debug\net5.0\ref\MusicShop.dll
+C:\Users\softwinter\Desktop\MusicShop\bin\Debug\net5.0\MusicShop.pdb
+C:\Users\softwinter\Desktop\MusicShop\obj\Debug\net5.0\MusicShop.csprojAssemblyReference.cache
+C:\Users\softwinter\Desktop\MusicShop\obj\Debug\net5.0\MusicShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\softwinter\Desktop\MusicShop\obj\Debug\net5.0\MusicShop.AssemblyInfoInputs.cache
+C:\Users\softwinter\Desktop\MusicShop\obj\Debug\net5.0\MusicShop.AssemblyInfo.cs
+C:\Users\softwinter\Desktop\MusicShop\obj\Debug\net5.0\MusicShop.csproj.CoreCompileInputs.cache
+C:\Users\softwinter\Desktop\MusicShop\obj\Debug\net5.0\MusicShop.dll
+C:\Users\softwinter\Desktop\MusicShop\obj\Debug\net5.0\ref\MusicShop.dll
+C:\Users\softwinter\Desktop\MusicShop\obj\Debug\net5.0\MusicShop.pdb
+C:\Users\softwinter\Desktop\MusicShop\obj\Debug\net5.0\MusicShop.genruntimeconfig.cache

@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/daniilefankin/Desktop/MusicShop/MusicShop.csproj": {}
+    "C:\\Users\\softwinter\\Desktop\\MusicShop\\MusicShop.csproj": {}
   },
   "projects": {
-    "/Users/daniilefankin/Desktop/MusicShop/MusicShop.csproj": {
+    "C:\\Users\\softwinter\\Desktop\\MusicShop\\MusicShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/daniilefankin/Desktop/MusicShop/MusicShop.csproj",
+        "projectUniqueName": "C:\\Users\\softwinter\\Desktop\\MusicShop\\MusicShop.csproj",
         "projectName": "MusicShop",
-        "projectPath": "/Users/daniilefankin/Desktop/MusicShop/MusicShop.csproj",
-        "packagesPath": "/Users/daniilefankin/.nuget/packages/",
-        "outputPath": "/Users/daniilefankin/Desktop/MusicShop/obj/",
+        "projectPath": "C:\\Users\\softwinter\\Desktop\\MusicShop\\MusicShop.csproj",
+        "packagesPath": "C:\\Users\\softwinter\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\softwinter\\Desktop\\MusicShop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/daniilefankin/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\softwinter\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -52,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
