@@ -7,6 +7,7 @@ namespace MusicShop
         static void Main(string[] args)
         {
             Console.WriteLine("Hello maksaim-suka");
+            class eto class;
         }
     }
 }
