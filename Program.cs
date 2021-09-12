@@ -6,7 +6,7 @@ namespace MusicShop
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello maksaim-suka");
+            Console.WriteLine("Your level is A2. You not submittet to Epam");
             class eto class;
         }
     }
